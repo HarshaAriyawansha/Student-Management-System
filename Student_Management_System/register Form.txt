@@ -1,0 +1,8 @@
+Student ID                 = studentId
+Student Name          = studentName
+Level                           = level
+Birthday                      = birthday
+Contact Number      = number
+E-Mail                         = email
+NIC Number              = nic
+Password                   = password
